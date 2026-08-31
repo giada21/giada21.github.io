@@ -1,0 +1,53 @@
+---
+title: "Teaching"
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TEACHING PAGE
+     Add courses by copying the course-card blocks below.
+     "Course overview" toggles use Bootstrap collapse — fill in the text
+     inside .course-overview-body when ready.
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## Primary Instructor
+
+<div class="course-card">
+<p class="course-title">FIN 302: Making Financial Decisions</p>
+<p class="course-meta">Primary Instructor &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Spring 2026</p>
+<a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin302-overview" role="button" aria-expanded="false">
+Course overview <i class="fa-solid fa-chevron-down"></i>
+</a>
+<div class="collapse" id="fin302-overview">
+<div class="course-overview-body">
+<!-- Add course overview here -->
+</div>
+</div>
+</div>
+
+## Teaching Assistant
+
+<div class="course-card">
+<p class="course-title">FIN 412 / FIN 612: International Financial Management I</p>
+<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 412) and MBA (FIN 612) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025</p>
+<a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin412-overview" role="button" aria-expanded="false">
+Course overview <i class="fa-solid fa-chevron-down"></i>
+</a>
+<div class="collapse" id="fin412-overview">
+<div class="course-overview-body">
+<!-- Add course overview here -->
+</div>
+</div>
+</div>
+
+<div class="course-card">
+<p class="course-title">FIN 414 / FIN 614: International Financial Management II</p>
+<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 414) and MBA (FIN 614) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025</p>
+<a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin414-overview" role="button" aria-expanded="false">
+Course overview <i class="fa-solid fa-chevron-down"></i>
+</a>
+<div class="collapse" id="fin414-overview">
+<div class="course-overview-body">
+<!-- Add course overview here -->
+</div>
+</div>
+</div>

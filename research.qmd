@@ -1,0 +1,103 @@
+---
+title: "Research"
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     RESEARCH PAGE
+     To add a paper: copy one :::: {.research-card} block and fill in fields.
+     To add a draft/slides link: uncomment the <a> tag and update the href.
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<div class="section-nav">
+<span>Jump to:</span>
+<a href="#work-in-progress">Work in Progress</a>
+<span class="sep">·</span>
+<a href="#ecb-publications">ECB Publications</a>
+</div>
+
+## Work in Progress
+
+:::: {.research-card}
+
+<p class="paper-title">Environmental Protection with Heterogeneous Agents: Can Financial Markets Outperform Traditional Policies? <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-authors"><strong>Giada Durante</strong></p>
+<span class="paper-status">Work in Progress</span>
+
+::: {.paper-abstract}
+Develops a general equilibrium model with heterogeneous climate preferences and beliefs to study optimal environmental policy. Shows that uniform carbon taxes and permits misprice environmental damages under heterogeneity, while a quality-indexed security linked to environmental outcomes can partially replicate planner-optimal wedges through market trade.
+:::
+
+<div class="paper-links">
+<!-- <a href="files/env-protection-draft.pdf">Draft</a> -->
+<!-- <a href="files/env-protection-slides.pdf">Slides</a> -->
+</div>
+
+::::
+
+:::: {.research-card}
+
+<p class="paper-title">Biodiversity from Space: Satellite-Based Measures of Natural Capital Exposure <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-authors"><strong>Giada Durante</strong>, S. Lakshmi Naaraayanan, Jean Pauphilet, and Kunal Sachdeva</p>
+<span class="paper-status">Work in Progress</span>
+
+::: {.paper-abstract}
+Provides a portable framework for studying biodiversity risk across asset classes and in global markets. Develops a firm-level measure of natural capital exposure by combining publicly-available satellite imagery with species observations using machine-learning predictions, and maps the resulting biodiversity estimates to the geocoded establishments of U.S. public firms.
+:::
+
+<div class="paper-links">
+<!-- <a href="files/biodiversity-space-draft.pdf">Draft</a> -->
+<!-- <a href="files/biodiversity-space-slides.pdf">Slides</a> -->
+</div>
+
+::::
+
+:::: {.research-card}
+
+<p class="paper-title">Integrating Climate Concerns into Monetary Policy: Boost a Greener Financial System? Evidence from the European Corporate Bond Market <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-authors"><strong>Giada Durante</strong></p>
+<span class="paper-status">Work in Progress</span>
+
+::: {.paper-abstract}
+Studies whether central bank climate-related communication and policy design affect green asset prices. Using difference-in-differences around ECB announcements in 2021 and 2022, the project finds that green corporate bonds experienced significantly larger price increases relative to non-green bonds, suggesting that integrating climate considerations into monetary policy can influence capital allocation toward sustainable finance.
+:::
+
+<div class="paper-links">
+<!-- <a href="files/ecb-climate-draft.pdf">Draft</a> -->
+<!-- <a href="files/ecb-climate-slides.pdf">Slides</a> -->
+</div>
+
+::::
+
+## ECB Publications
+
+:::: {.research-card}
+
+<p class="paper-title"><a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202208_05~e35e17c111.en.html" target="_blank" rel="noopener noreferrer">Firms' Access to Finance and the Business Cycle: Evidence from the SAFE</a></p>
+<p class="paper-authors"><strong>Giada Durante</strong>, Annalisa Ferrando, Asger Munch Grønlund, and Timo Reinelt</p>
+<span class="paper-venue">ECB Economic Bulletin, Issue 8/2022</span>
+
+::: {.paper-abstract}
+Examines how financing gaps and firms' expectations regarding bank loan availability correlate with monetary policy changes and macroeconomic outcomes across the euro area.
+:::
+
+<div class="paper-links">
+<a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202208_05~e35e17c111.en.html" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+::::
+
+:::: {.research-card}
+
+<p class="paper-title"><a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_07~78a838eb48.en.html" target="_blank" rel="noopener noreferrer">Substitution between Debt Security Issuance and Bank Loans: Evidence from the SAFE</a></p>
+<p class="paper-authors"><strong>Giada Durante</strong>, Annalisa Ferrando, Asger Munch Grønlund, and Timo Reinelt</p>
+<span class="paper-venue">ECB Economic Bulletin, Issue 1/2023</span>
+
+::: {.paper-abstract}
+Examines whether firms shift from bond issuance to bank borrowing when corporate bond market conditions deteriorate, and whether this crowding effect worsens lending availability for small and medium enterprises.
+:::
+
+<div class="paper-links">
+<a href="https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_07~78a838eb48.en.html" target="_blank" rel="noopener noreferrer">Article</a>
+</div>
+
+::::

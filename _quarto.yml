@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Giada Durante"
+  description: "PhD Student in Finance, Ross School of Business, University of Michigan"
+  site-url: https://giada21.github.io
+
+  navbar:
+    background: light
+    foreground: dark
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+  page-footer:
+    background: light
+    border: true
+    center: "© 2026 Giada Durante &nbsp;·&nbsp; PhD Student in Finance &nbsp;·&nbsp; University of Michigan"
+
+  # Social sharing metadata (edit title/description to match your bio)
+  open-graph:
+    title: "Giada Durante"
+    description: "PhD Student in Finance, Ross School of Business, University of Michigan"
+    image: images/profile.svg
+
+format:
+  html:
+    theme: [cosmo, styles/theme.scss]
+    toc: false
+    page-layout: article
+    grid:
+      sidebar-width: 0px
+      body-width: 860px
+      margin-width: 0px
+    include-in-header:
+      - text: |
+          <!-- Font Awesome 6 Free — icons used throughout the site -->
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" crossorigin="anonymous">
+          <!-- Google Fonts: Crimson Pro (headings) + Inter (body) -->
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">

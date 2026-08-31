@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="215" viewBox="0 0 180 215">
+  <rect width="180" height="215" fill="#e9ecef" rx="3"/>
+  <!-- Head -->
+  <circle cx="90" cy="78" r="38" fill="#ced4da"/>
+  <!-- Shoulders -->
+  <ellipse cx="90" cy="200" rx="68" ry="42" fill="#ced4da"/>
+  <!-- Label -->
+  <text x="90" y="168" text-anchor="middle" fill="#adb5bd"
+        font-family="system-ui, -apple-system, sans-serif" font-size="11" letter-spacing="0.3">
+    Profile Photo
+  </text>
+</svg>

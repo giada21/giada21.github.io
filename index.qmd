@@ -1,0 +1,45 @@
+---
+title: ""
+page-layout: article
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HOME PAGE
+     Edit: bio paragraphs, LinkedIn URL, email, office number below.
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+::::: {.profile-container}
+
+:::: {.profile-left}
+
+<img src="images/profile.jpg" class="profile-photo" alt="Giada Durante">
+
+<div class="contact-below-photo">
+<a href="https://www.linkedin.com/in/giadadurante" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
+<a href="mailto:giada@umich.edu"><i class="fa-regular fa-envelope"></i> giada@umich.edu</a>
+<span class="address-item"><i class="fa-solid fa-location-dot"></i><span>R4421, Ross School of Business<br>701 Tappan Ave<br>Ann Arbor, MI 48109</span></span>
+</div>
+
+::::
+
+:::: {.profile-info}
+
+<p class="profile-name">Giada Durante</p>
+
+I am a PhD candidate in Finance at the **Ross School of Business, University of Michigan**. My research focuses on macro finance and climate finance, and in particular on the interaction between regulatory policies and capital markets in the context of climate-related issues.
+
+I hold a BSc in Economics and Business from Luiss University and a Double Degree MSc in Finance and Quantitative Techniques jointly awarded by Luiss University and the Qtem Network. Before my PhD, I worked as a financial analyst at a financial advisory firm in Milan and as a Monetary Policy trainee in the Capital Markets division at the European Central Bank.
+
+Outside of academia, I am a certified scuba diver and passionate traveler!
+
+::::
+
+:::::
+
+---
+
+## Research Interests
+
+- Macro Finance
+- Climate Finance
+- Environmental Risk and Financial Markets
