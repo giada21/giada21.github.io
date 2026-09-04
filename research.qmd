@@ -19,7 +19,7 @@ title: "Research"
 
 :::: {.research-card}
 
-<p class="paper-title">Environmental Protection with Heterogeneous Agents: Can Financial Markets Outperform Traditional Policies? <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-title">Environmental Protection with Heterogeneous Agents: Can Financial Markets Outperform Traditional Policies?</p>
 <p class="paper-authors"><strong>Giada Durante</strong></p>
 <span class="paper-status">Work in Progress</span>
 
@@ -36,7 +36,7 @@ Develops a general equilibrium model with heterogeneous climate preferences and 
 
 :::: {.research-card}
 
-<p class="paper-title">Biodiversity from Space: Satellite-Based Measures of Natural Capital Exposure <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-title">Biodiversity from Space: Satellite-Based Measures of Natural Capital Exposure</p>
 <p class="paper-authors"><strong>Giada Durante</strong>, S. Lakshmi Naaraayanan, Jean Pauphilet, and Kunal Sachdeva</p>
 <span class="paper-status">Work in Progress</span>
 
@@ -53,7 +53,7 @@ Provides a portable framework for studying biodiversity risk across asset classe
 
 :::: {.research-card}
 
-<p class="paper-title">Integrating Climate Concerns into Monetary Policy: Boost a Greener Financial System? Evidence from the European Corporate Bond Market <span style="font-weight: 400; font-style: italic; font-size: 0.95rem;">(tentative)</span></p>
+<p class="paper-title">Integrating Climate Concerns into Monetary Policy: Boost a Greener Financial System? Evidence from the European Corporate Bond Market</p>
 <p class="paper-authors"><strong>Giada Durante</strong></p>
 <span class="paper-status">Work in Progress</span>
 

@@ -6,22 +6,22 @@ title: "CV"
      CV PAGE
      To update your CV:
        1. Export your CV as a PDF.
-       2. Save it as: files/cv.pdf  (replace the existing file)
+       2. Save it as: files/cv_Durante_new.pdf  (replace the existing file)
        3. Run: quarto render
      No code changes needed — just swap the PDF file.
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Download button — links to files/cv.pdf -->
-<a href="files/cv_Durante.pdf" class="cv-download-btn" download>
+<!-- Download button -->
+<a href="files/cv_Durante_new.pdf" class="cv-download-btn" download>
   <i class="fa-solid fa-download"></i>&nbsp; Download CV (PDF)
 </a>
 
 <!-- Embedded PDF viewer — works in Chrome/Edge/Firefox; shows fallback link in Safari -->
 ::: {.cv-embed-container}
-<object data="files/cv_Durante.pdf" type="application/pdf" width="100%" style="height: 900px; display: block; border: none;">
+<object data="files/cv_Durante_new.pdf" type="application/pdf" width="100%" style="height: 900px; display: block; border: none;">
 <p style="padding: 3rem; text-align: center; color: #666;">
 Your browser cannot display PDFs inline.
-<a href="files/cv_Durante.pdf" style="color: #1a4a7a;">Download the CV instead.</a>
+<a href="files/cv_Durante_new.pdf" style="color: #1a4a7a;">Download the CV instead.</a>
 </p>
 </object>
 :::

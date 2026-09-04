@@ -13,13 +13,13 @@ title: "Teaching"
 
 <div class="course-card">
 <p class="course-title">FIN 302: Making Financial Decisions</p>
-<p class="course-meta">Primary Instructor &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Spring 2026</p>
+<p class="course-meta">Primary Instructor &nbsp;·&nbsp; Undergraduate &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Spring 2026</p>
 <a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin302-overview" role="button" aria-expanded="false">
 Course overview <i class="fa-solid fa-chevron-down"></i>
 </a>
 <div class="collapse" id="fin302-overview">
 <div class="course-overview-body">
-<!-- Add course overview here -->
+Making Financial Decisions (FIN 302) is designed to familiarize students with the basic tools and concepts of finance. Topics include the time value of money, asset valuation, market efficiency, corporate investment decision-making, capital structure decisions, and risk management.
 </div>
 </div>
 </div>
@@ -28,26 +28,39 @@ Course overview <i class="fa-solid fa-chevron-down"></i>
 
 <div class="course-card">
 <p class="course-title">FIN 412 / FIN 612: International Financial Management I</p>
-<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 412) and MBA (FIN 612) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025</p>
+<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 412) and MBA (FIN 612) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025, Fall 2026</p>
 <a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin412-overview" role="button" aria-expanded="false">
 Course overview <i class="fa-solid fa-chevron-down"></i>
 </a>
 <div class="collapse" id="fin412-overview">
 <div class="course-overview-body">
-<!-- Add course overview here -->
+FIN 412/612 introduces the institutions and participants in currency markets. The course examines how international trade, capital flows, interest rates, inflation, economic policy, and growth affect exchange rates, financial investment, and corporate decision-making. It also covers exchange-rate regimes, central bank intervention, and currency crises.
 </div>
 </div>
 </div>
 
 <div class="course-card">
 <p class="course-title">FIN 414 / FIN 614: International Financial Management II</p>
-<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 414) and MBA (FIN 614) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025</p>
+<p class="course-meta">TA &nbsp;·&nbsp; Undergraduate (FIN 414) and MBA (FIN 614) &nbsp;·&nbsp; Ross School of Business, University of Michigan &nbsp;·&nbsp; Fall 2025, Fall 2026</p>
 <a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin414-overview" role="button" aria-expanded="false">
 Course overview <i class="fa-solid fa-chevron-down"></i>
 </a>
 <div class="collapse" id="fin414-overview">
 <div class="course-overview-body">
-<!-- Add course overview here -->
+FIN 414/614 examines global equity, bond, and derivatives markets and the opportunities they present for corporate financial policy, risk management, and portfolio management. The course also explores the causes and consequences of international financial crises affecting global capital markets.
+</div>
+</div>
+</div>
+
+<div class="course-card">
+<p class="course-title">FIN 557: Introduction to Finance</p>
+<p class="course-meta">TA &nbsp;&middot;&nbsp; Master of Management &nbsp;&middot;&nbsp; Ross School of Business, University of Michigan &nbsp;&middot;&nbsp; Fall 2026</p>
+<a class="course-overview-toggle" data-bs-toggle="collapse" href="#fin557-overview" role="button" aria-expanded="false">
+Course overview <i class="fa-solid fa-chevron-down"></i>
+</a>
+<div class="collapse" id="fin557-overview">
+<div class="course-overview-body">
+This introductory financial management course for Master of Management students develops the financial literacy needed to evaluate business decisions and communicate with finance professionals.
 </div>
 </div>
 </div>
