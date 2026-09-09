@@ -1,11 +1,13 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - CNAME
 
 website:
   title: "Giada Durante"
   description: "PhD Student in Finance, Ross School of Business, University of Michigan"
-  site-url: https://giada21.github.io
+  site-url: https://giadadurante.com
 
   navbar:
     background: light
